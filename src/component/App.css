@@ -1,0 +1,16 @@
+.component-app {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  height: 100%;
+}
+
+.circle {
+  background-color: #F80;
+  border: 3px solid #FFF;
+  border-radius: 20px;
+  height: 80px;
+  width: 60px;
+  cursor: pointer;
+}
+

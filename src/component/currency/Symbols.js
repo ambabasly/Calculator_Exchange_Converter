@@ -1,0 +1,23 @@
+export const Symbols = [
+    "ANG",
+    "SVC",
+    "CAD",
+    "XCD",
+    "MVR",
+    "HRK",
+    "AUD",
+    "MWK",
+    "XAG",
+    "MAD",
+    "PHP",
+    "NAD",
+    "GNF",
+    "KES",
+    "MZN",
+    "BTN",
+    "MGA",
+    "USD",
+    "EUR",
+    "CZK",
+    "NGN"
+  ];
